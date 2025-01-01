@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/Vincat/blog/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 22:22:10 +1030</lastBuildDate>
+    <atom:link href="http://localhost:1313/Vincat/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/Vincat/blog/posts/welcome/</link>
+      <pubDate>Wed, 01 Jan 2025 22:22:10 +1030</pubDate>
+      <guid>http://localhost:1313/Vincat/blog/posts/welcome/</guid>
+      <description>&lt;p&gt;Welcome to my little digital playground, where I try out new things. Sometimes it works, sometimes not.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
