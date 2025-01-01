@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/Vincat/blog'
+baseURL = 'https://vincat.github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-theme-m10c"
