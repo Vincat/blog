@@ -24,6 +24,8 @@ theme = "hugo-theme-m10c"
 [params]
   author = "Vincent C"
   description = "A blog about my digital experiments."
+  avatar = "avatar.jpg"
+  enableTags = true
 
   [[params.social]]
     icon = "github"
