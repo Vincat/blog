@@ -1,6 +1,6 @@
 baseURL = 'https://vincat.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Linux / Homelab Experiments'
 theme = "hugo-theme-m10c"
 
 [menu]
